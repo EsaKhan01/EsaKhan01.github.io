@@ -18,7 +18,6 @@ Some info on how to make a site like this and how it works.
 - [CV](features.md)
 - [Project Snippets](limitations.md)
 - [Projects](wiki.md)
-- [LinkedIn](www.linkedin.com/in/esa-k-470b14327)
 
 
 ## Source
