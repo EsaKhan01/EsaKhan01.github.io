@@ -11,7 +11,7 @@ permalink: /
 </div>
 
 
-## About
+## About Me
 
 This project is built around using markdown content to make a website. 
 
@@ -33,10 +33,10 @@ The page you are currently viewing is `README.md` in the docs directory, with pa
 
 Some info on how to make a site like this and how it works.
 
-- [About](about.md)
-- [Features](features.md)
-- [Limitations](limitations.md)
-- [What about a Wiki?](wiki.md)
+- [Public Resume](about.md)
+- [CV](features.md)
+- [Project Snippets](limitations.md)
+- [Projects](wiki.md)
 
 
 ## Source
