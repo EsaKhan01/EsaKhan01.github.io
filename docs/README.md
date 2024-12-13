@@ -12,7 +12,7 @@ Hello my name is Esa Khan. I am a current undergraduate student at Clemson Unive
 
 ## Menu
 
-Some info on how to make a site like this and how it works.
+Some links to show you more about my work.
 
 - [Public Resume](about.md)
 - [CV](features.md)
