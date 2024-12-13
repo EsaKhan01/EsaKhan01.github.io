@@ -1,27 +1,27 @@
-# **Limitations**
+# **Snippets**
 
-## Debugging
+## Separation of Concerns Example
 
 GitHub Pages error messages on a build are limited.
 
 There is no flow for setting up this project locally, which also makes debugging harder. You could install and run Jekyll though if you need to.
 
 
-## Badges
+## Documentation Example
 
 If you try and use a _shields.io_ badge inside a centered badge, the code will get shown as plain text. This is an issue on a normal Jekyll site.
 
 So take out the centering, or use HTML instead of markdown.
 
 
-## No templating
+## Github Repository
 
 The menus are all maintained by hand. This great for a docs site of a handful of pages. But if you site gets bigger, you should consider using Jekyll or MkDocs or DocsifyJS instead.
 
 Those are also good options if you want a themed site, rather than the plain white layout with no navbar.
 
 
-## Headings
+## Another Example
 
 The GitHub-styled site already has an H1 link at the top of the pages, which takes you to the site's homepage.
 
