@@ -4,7 +4,7 @@ permalink: /
 
 ## About Me
 
-Hello my name is Esa Khan. I am a current undergraduate student at Clemson University, and I am pursuiing a B.S. in Biological Sciences and a B.S. in Computer Science.
+Hello my name is Esa Khan. I am a current undergraduate student at Clemson University, and I am pursuing a B.S. in Biological Sciences and a B.S. in Computer Science.
 
 
 
